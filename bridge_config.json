@@ -9,7 +9,7 @@
   }
   },
   "llm": {
-    "model": "deepseek-v2:16b",
+    "model": "phi4-mini-reasoning:latest",
     "baseUrl": "http://localhost:11434",
     "apiKey": "ollama",
     "temperature": 0.7,

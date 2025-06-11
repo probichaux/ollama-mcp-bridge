@@ -7,3 +7,6 @@ dist/
 
 # Ignore macOS system files
 .DS_Store
+
+# ignore the bridge_config.json file
+bridge_config.json
